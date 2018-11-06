@@ -1,4 +1,4 @@
-# Srini rewritten in Angular6 and Bootstrap 4
+# Srinivas written in Angular6 and Bootstrap 4
 
 Simple Dashboard Admin App built using Angular 6 and Bootstrap 4
 
@@ -6,19 +6,12 @@ Simple Dashboard Admin App built using Angular 6 and Bootstrap 4
 ## [Demo](http://localhost:4200)
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with Angular CLI version 6.0.0.
 
 ### Introduction
 
-Provides fast, reliable and extensible starter for the development of Angular projects.
-
 `srini-angular6` provides the following features:
 
-*   Developed using boostrap-v4.0.0
-*   angular-v6.0.0
-*   angular/cli-v6.0.0
-*   [ng-bootstrap-v2.0.0](https://github.com/ng-bootstrap/)
-*   [ngx-translate-v10.0.0](https://github.com/ngx-translate)
 *   Following the best practices.
 *   Ahead-of-Time compilation support.
 *   Official Angular i18n support.
@@ -32,9 +25,6 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/srinivasa1234/Srini-angular6-poc.git
-$ cd Srini-Angular6-poc
-# install the project's dependencies
 $ npm install
 # watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 $ npm start
