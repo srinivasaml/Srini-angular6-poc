@@ -1,12 +1,12 @@
 {
     "name": "Srini-Angular6-poc",
-    "version": "6.0.0",
-    "license": "Apache",
+    "version": "1.0.0",
+    "license": "MIT",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
         "build": "ng build --prod",
-        "gitbuild": "ng build --prod --base-href /start-angular/Srini-Angular6-poc/master/dist/",
+        "gitbuild": "ng build --prod",
         "test": "ng test",
         "test-ci": "TEST_CI=true ng test",
         "lint": "ng lint",

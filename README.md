@@ -16,7 +16,6 @@ This project was generated with Angular CLI version 6.0.0.
 *   Ahead-of-Time compilation support.
 *   Official Angular i18n support.
 *   Production and development builds.
-*   Tree-Shaking production builds.
 
 ### How to start
 
@@ -29,13 +28,8 @@ $ npm install
 # watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 $ npm start
 # prod build, will output the production application in `dist`
-# the produced code can be deployed (rsynced) to a remote server
 $ npm run build
 ```
-
-### Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
 ### Running unit tests
 

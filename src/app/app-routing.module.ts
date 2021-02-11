@@ -8,7 +8,7 @@ import { RegisterComponent } from './register';
 const routes: Routes = [
     { path: '', loadChildren: './layout/layout.module#LayoutModule', canActivate: [AuthGuard] },
   //  { path: 'login', loadChildren: './login/login.module#LoginModule' },
-  //  { path: 'login', component: LoginComponent },
+    { path: 'login', component: LoginComponent },
     { path: 'register', component: RegisterComponent },
     { path: 'error', loadChildren: './server-error/server-error.module#ServerErrorModule' },
     { path: 'access-denied', loadChildren: './access-denied/access-denied.module#AccessDeniedModule' },
